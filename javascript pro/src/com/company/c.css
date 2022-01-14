@@ -1,0 +1,99 @@
+p{
+text-align:center;
+font-size:20px;
+}
+
+
+p1{
+text-decoration:1px underline;
+}
+
+
+.a{
+text-align:center;
+}
+
+
+p3{
+text-decoration:1px solid black underline;}
+
+
+table,th,td{
+width:100px;
+border:1px solid black;
+border-collapse:collapse;
+
+}
+
+
+#image{
+width:80px;
+height:120px;
+float:right;
+padding:2px;
+border:2px solid blue;
+}
+.center{
+margin-left:auto;
+margin-right:auto;
+background-color:green;
+}
+
+p4{
+text-decoration:1px solid black underline;}
+p5{
+text-decoration:1px solid black underline;}
+h3{
+text-decoration:1px solid black underline;}
+h4{
+text-decoration:1px solid black underline;}
+
+
+
+
+p6{
+text-decoration:1px solid underline;
+}
+
+
+
+p8{
+text-decoration:1px solid underline;}
+
+
+p9{
+text-decoration:1px solid underline;}
+
+
+p10{
+text-decoration:1px solid underline;}
+
+p11{
+text-decoration:1px solid underline;}
+
+p12{
+text-decoration:1px solid underline;}
+
+.c{
+text-align:right;}
+
+.d{
+text-align:left;
+}
+.image1{
+background-image:url("database.png");
+}
+
+
+.image2{
+background-image:url("Face-recognition.png");
+}
+body{
+background-color:yellow;
+border-style:solid;
+}
+
+.e{
+text-align:center;
+text-decoration:1px solid center;
+}
